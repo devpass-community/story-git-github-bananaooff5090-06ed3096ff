@@ -1,3 +1,3 @@
 ## Contributors
 
-- Giovana Tech Lead
+- Giovana Borges Tech Lead
